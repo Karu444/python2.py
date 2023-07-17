@@ -1,0 +1,5 @@
+base = float(input("Base: "))
+altura = float(input("altura: "))
+area = (base * altura) / 2
+#print(f"El area es: {area:.2f}")
+print("El area es", "{:,.2f}".format(area))
