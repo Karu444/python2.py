@@ -1,0 +1,54 @@
+{
+    "pets": [
+        {
+            "tipo": "Gato",
+            "raza": "Persa",
+            "talla": "mediano",
+            "precio": 100000,
+            "servicios": [
+                "vacunas",
+                "ba\u00f1o",
+                "alimento",
+                "juguetes"
+            ]
+        },
+        {
+            "tipo": "Perro",
+            "raza": "Pastor Collins",
+            "talla": "Grande",
+            "precio": 15000,
+            "servicios": [
+                "ba\u00f1o"
+            ]
+        },
+        {
+            "tipo": "Chanchito",
+            "raza": "Tiny Rose",
+            "talla": "peque\u00f1o",
+            "precio": 40000,
+            "servicios": [
+                "vacunas",
+                "alimento"
+            ]
+        },
+        {
+            "tipo": "Ave",
+            "raza": "loro",
+            "precio": 25000,
+            "servicios": [
+                "jaula",
+                " semillero"
+            ]
+        },
+        {
+            "tipo": "Reptil",
+            "raza": "Boa Constriptor",
+            "precio": 60000,
+            "servicios": [
+                "ba\u00f1o",
+                " hotel",
+                " alimentacion"
+            ]
+        }
+    ]
+}
